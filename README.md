@@ -1,6 +1,3 @@
-# sikawan - frontend
+# SiKawan Apps - Frontend
 
-## Front-End Member
-* Rakhmatnw
-* Winata Arafat
-* Hendri
+## Implement - HTML, CSS, React JS, Redux
